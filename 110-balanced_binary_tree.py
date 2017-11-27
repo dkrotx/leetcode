@@ -5,9 +5,6 @@
 #         self.left = None
 #         self.right = None
 
-import sys
-
-
 class Solution(object):
     def isBalanced(self, root):
         """
